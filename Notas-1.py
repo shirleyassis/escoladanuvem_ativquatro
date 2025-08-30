@@ -1,3 +1,4 @@
+#2
 def registrar_notas():
     """
     Programa para registrar notas de uma turma e calcular a média
@@ -47,4 +48,5 @@ def registrar_notas():
         print(f"Menor nota: {min(notas):.2f}")
     else:
         print("\nNenhuma nota válida foi registrada.")
+
 
