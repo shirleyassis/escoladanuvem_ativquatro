@@ -1,3 +1,4 @@
+#1
 def calculadora():
     """
     Calculadora que realiza as quatro operações básicas com tratamento de erros
@@ -111,4 +112,5 @@ def calculadora_simples():
 if __name__ == "__main__":
     calculadora()
     # Para usar a versão simples, descomente a linha abaixo:
+
     # calculadora_simples()
